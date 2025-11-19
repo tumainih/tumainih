@@ -1,0 +1,4 @@
+streamlit>=1.20
+pandas>=1.5
+# Add any extra packages your app needs below
+# If you use other packages, list them here (e.g., numpy, matplotlib)

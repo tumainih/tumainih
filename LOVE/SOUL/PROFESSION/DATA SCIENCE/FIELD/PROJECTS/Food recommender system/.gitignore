@@ -1,0 +1,28 @@
+# Temporary Office files
+~$*
+*.tmp
+*.lnk
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/cache/
+
+# Local data (optional; remove these lines if you want to track CSVs)
+# *.csv
+
+# Environment
+.env
+.env.local

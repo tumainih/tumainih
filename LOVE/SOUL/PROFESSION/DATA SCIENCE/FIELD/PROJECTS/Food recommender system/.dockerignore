@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.vscode/
+.idea/
+*.log
+goal_history/
+*.xlsx
+*.xls
+.DS_Store
